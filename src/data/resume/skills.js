@@ -146,7 +146,7 @@ const skills = [
 // number of categories. Re-arrange this list until you find a pattern you like.
 const colors = [
   "#6968b3",
-  "#37b1f5",
+  "#0077cc",
   "#40494e",
   "#515dd4",
   "#e47272",

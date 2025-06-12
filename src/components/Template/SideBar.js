@@ -21,11 +21,11 @@ const SideBar = () => (
         <li>
           {!window.location.pathname.includes("/resume") ? (
             <Link to="/resume" className="button">
-              Learn More
+              Learn More About Me
             </Link>
           ) : (
             <Link to="/about" className="button">
-              About Me
+              Learn More About Me
             </Link>
           )}
         </li>
@@ -34,9 +34,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">
-        &copy; Dimeji <Link to="/">dimeji.com</Link>.
-      </p>
+      <p className="copyright">&copy; Dimeji</p>
     </section>
   </section>
 );

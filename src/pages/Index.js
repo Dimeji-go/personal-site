@@ -4,12 +4,7 @@ import { Link } from "react-router-dom";
 import Main from "../layouts/Main";
 
 const Index = () => (
-  <Main
-    description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, " +
-      "VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni."
-    }
-  >
+  <Main description={"Dimeji's personal website"}>
     <article className="post" id="index">
       <header>
         <div className="title">
@@ -32,7 +27,10 @@ const Index = () => (
       <p>
         {" "}
         Source available{" "}
-        <a href="https://github.com/Dimeji-go/personal-site">here</a>.
+        <a href="https://github.com/Dimeji-go/personal-site">
+          my personal website repository
+        </a>
+        .
       </p>
     </article>
   </Main>
