@@ -21,7 +21,7 @@ const skills = [
   },
   {
     title: "Bash",
-    competency: 2,
+    competency: 3,
     category: ["Tools", "Languages"],
   },
   {
@@ -102,12 +102,22 @@ const skills = [
   },
   {
     title: "Python",
+    competency: 4,
+    category: ["Languages", "Python"],
+  },
+  {
+    title: "Machine Learing",
     competency: 3,
-    category: ["Languages"],
+    category: ["Python"],
+  },
+  {
+    title: "Data Analysis",
+    competency: 3,
+    category: ["Python"],
   },
   {
     title: "Solidity",
-    competency: 2,
+    competency: 3,
     category: ["Languages"],
   },
   {
@@ -127,12 +137,12 @@ const skills = [
   },
   {
     title: "kotlin",
-    competency: 2,
+    competency: 3,
     category: ["Languages"],
   },
   {
     title: "Data Visualization",
-    competency: 3,
+    competency: 4,
     category: [, "Javascript"],
   },
   {

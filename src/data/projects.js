@@ -9,12 +9,20 @@ const data = [
   },
 
   {
-    title: "Devlens",
-    link: "https://devlens.vercel.app/",
-    image: "/images/projects/land.jpg",
+    title: "TradingView",
+    link: "https://react-tradingview.vercel.app/",
+    image: "/images/projects/chart.png",
     date: "2024-09-20",
-    desc: "Demo Landing page",
+    desc: "React.js TradingView Clone",
   },
+  {
+    title: "Ai Agent",
+    link: "https://app-ai-agent-amlnhdedq9f4bw3n4jprg9.streamlit.app/",
+    image: "/images/projects/ai-agent.png",
+    date: "2024-09-20",
+    desc: "Streamlit Ai Chatbot",
+  },
+
   {
     title: "Emazon E-commerce online store",
     link: "https://emazon-ten.vercel.app/",
