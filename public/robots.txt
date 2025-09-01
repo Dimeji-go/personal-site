@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /api
+Allow: /
+Sitemap: https://personal-site-hazel-iota.vercel.app/sitemap.xml
