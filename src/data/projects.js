@@ -9,11 +9,11 @@ const data = [
   },
 
   {
-    title: "TradingView",
-    link: "https://react-tradingview.vercel.app/",
-    image: "/images/projects/chart.png",
+    title: "SolZone",
+    link: "https://sol-zone.vercel.app/",
+    image: "/images/projects/market.png",
     date: "2024-09-20",
-    desc: "React.js TradingView Clone",
+    desc: "Solana NFT MarketPlace",
   },
   {
     title: "Ai Agent",
