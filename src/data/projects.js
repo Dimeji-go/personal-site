@@ -11,7 +11,7 @@ const data = [
   {
     title: "SolZone",
     link: "https://sol-zone.vercel.app/",
-    image: "/images/projects/market.png",
+    image: "/images/projects/market.jpg",
     date: "2024-09-20",
     desc: "Solana NFT MarketPlace",
   },
